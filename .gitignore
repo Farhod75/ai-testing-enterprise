@@ -1,0 +1,18 @@
+# Secret keys — NEVER commit this
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# VS Code
+.vscode/settings.json
