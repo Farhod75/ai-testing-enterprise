@@ -16,3 +16,5 @@ htmlcov/
 
 # VS Code
 .vscode/settings.json
+# Packaging
+*.egg-info/
